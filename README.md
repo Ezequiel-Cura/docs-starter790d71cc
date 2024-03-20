@@ -73,3 +73,7 @@ Install our Github App and turn on the "Auto update" switch on the [Setting page
 ### Manually
 
 Click the "Tigger update" button on the [Home page](https://app.spreading.ai/home) to update your project.
+
+
+
+This a change that requested
